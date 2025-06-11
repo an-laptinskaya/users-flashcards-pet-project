@@ -40,4 +40,4 @@ Also, all available pages have cookies that display how many times the user visi
 
 ## Developers
 
-- [an-rabtsevich](https://github.com/an-rabtsevich)
+- [an-laptinskaya](https://github.com/an-laptinskaya)
